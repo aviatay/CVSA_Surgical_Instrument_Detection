@@ -1,6 +1,6 @@
 # 🔬 Surgical Instrument Detection with YOLOv8
 
-This repository contains a full pipeline for training, fine-tuning, and evaluating YOLOv8 models to detect surgical instruments (such as tweezers and needle drivers) in surgical videos and images. It includes scripts for training, predictions, environment setup, and usage instructions.
+This repository contains inference implementation, trained model, documentation of the training methodology, fine-tuning, and evaluating YOLOv8 models to detect surgical instruments (such as tweezers and needle drivers) in surgical videos and images. It includes scripts for training, predictions, environment setup, and usage instructions.
 
 ---
 
